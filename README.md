@@ -190,36 +190,6 @@ Mental-Health-/
 
 ---
 
-## ⚠️ Limitations
-
-- Survey responses may contain subjective or self-reporting bias.
-- Categorical variables require appropriate encoding and validation.
-- Statistical associations do not necessarily represent causal relationships.
-- Findings may not generalize to broader or clinical populations.
-- The project should not be used for diagnosis, treatment, or clinical decision-making.
-
----
-
-## 🔮 Future Work
-
-- Add complete train-test and cross-validation metrics
-- Compare multiple classification algorithms
-- Evaluate model performance using multiple metrics
-- Perform additional feature-selection and feature-engineering analysis
-- Incorporate explainable-AI methods
-- Include model and analysis visualizations
-- Validate findings using a larger and more representative dataset
-- Develop an interactive data-visualization dashboard
-
----
-
-## 👩‍💻 Author
-
-**Sadia Shatabdi**
-
-GitHub: [@sadiashatabdi](https://github.com/sadiashatabdi)
-
----
 
 <div align="center">
 
